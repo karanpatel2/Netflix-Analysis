@@ -19,18 +19,18 @@ Netflix wants to better understand the type of content that is successful on its
 
 ## Define Your Business Objective
 
-### To extract meaningful insights from Netflix’s content dataset that can.
-Help in identifying popular genres and trends over time.
-Optimize content strategy for different regions.
-Improve recommendations based on user-viewing habits and available content.
-Assist in acquiring or producing content based on data-driven decisions.
+#### To extract meaningful insights from Netflix’s content dataset that can.
+#### Help in identifying popular genres and trends over time.
+#### Optimize content strategy for different regions.
+#### Improve recommendations based on user-viewing habits and available content.
+#### Assist in acquiring or producing content based on data-driven decisions.
 
-**Dataset Information**
+## Dataset Information
 
-Source: Netflix dataset
-Features include: title, director, cast, country, release_year, date_added, duration, rating, listed_in, type, etc.
+#### Source: Netflix dataset
+#### Features include: title, director, cast, country, release_year, date_added, duration, rating, listed_in, type, etc.
 
-**Variables Description**
+## Variables Description
 
 title: Title of the show/movie
 director: Director's name
