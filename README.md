@@ -32,46 +32,46 @@ Netflix wants to better understand the type of content that is successful on its
 
 ## Variables Description
 
-title: Title of the show/movie
-director: Director's name
-cast: List of cast members
-country: Country of origin
-release_year: Year the content was released
-date_added: Date the content was added to Netflix
-rating: Content rating (TV-MA, PG, etc.)
-duration: Duration in minutes or seasons
-listed_in: Genre(s) of the content
-type: Whether it's a Movie or TV Show
+#### title: Title of the show/movie
+#### director: Director's name
+#### cast: List of cast members
+#### country: Country of origin
+#### release_year: Year the content was released
+#### date_added: Date the content was added to Netflix
+#### rating: Content rating (TV-MA, PG, etc.)
+#### duration: Duration in minutes or seasons
+#### listed_in: Genre(s) of the content
+#### type: Whether it's a Movie or TV Show
 
-**What All Manipulations Have Been Done?**
+## What All Manipulations Have Been Done?
 
-*-Fill the  missing/null values in crucial columns like title, cast, director, country*
--Converted release_year from float to integer
--Extracted year, month, and day from date_added
--Created visualizations using seaborn, matplotlib
+#### Fill the  missing/null values in crucial columns like title, cast, director, country.
+#### Converted release_year from float to integer.
+#### Extracted year, month, and day from date_added.
+#### Created visualizations using seaborn, matplotlib.
 
-**Insights Found**
+## Insights Found
 
-Majority of content added in recent years (2018–2020)
-US is the highest content contributor
-Dramas and Comedies are the most popular genres
-TV Shows are shorter in duration but more frequent in releases
+#### Majority of content added in recent years (2018–2020).
+#### US is the highest content contributor.
+#### Dramas and Comedies are the most popular genres.
+#### TV Shows are shorter in duration but more frequent in releases.
 
-**Challenges Faced**
+## Challenges Faced
 
-Handling mixed formats in the duration column (Minutes vs Seasons)
-Extracting meaningful insights from multi-value columns like cast and listed_in
-Null values in crucial categorical fields like director, cast
-Plotting content distribution by multiple attributes in a clean, interpretable manner
+#### Handling mixed formats in the duration column (Minutes vs Seasons).
+#### Extracting meaningful insights from multi-value columns like cast and listed_in.
+#### Null values in crucial categorical fields like director, cast.
+#### Plotting content distribution by multiple attributes in a clean, interpretable manner.
 
-**Solution to Business Objective**
+## Solution to Business Objective
 
-By applying structured data wrangling and exploratory data analysis, Netflix can:
-Strategize content acquisition by genre, country, and release trends
-Focus on increasing content in high-demand categories (e.g., TV dramas from the US)
-Use insights to improve the recommendation system and viewer retention
-Identify underrepresented countries or genres to diversify the portfolio
-
-**Conclusion**
+#### By applying structured data wrangling and exploratory data analysis, Netflix can.
+#### Strategize content acquisition by genre, country, and release trends.
+#### Focus on increasing content in high-demand categories (e.g., TV dramas from the US).
+#### Use insights to improve the recommendation system and viewer retention.
+#### Identify underrepresented countries or genres to diversify the portfolio.
+.
+## Conclusion
 
 The Netflix EDA project successfully delivers detailed insights using 15 diverse visualizations. The analysis provides actionable insights that can guide Netflix's business and content strategy. From understanding dominant genres and active content-adding years to exploring global content contributions, this project reveals the hidden story behind Netflix's content lineup.
