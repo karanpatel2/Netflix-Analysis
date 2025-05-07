@@ -1,15 +1,9 @@
-## Netflix Dataset Analysis and Content Strategy Optimization
+# Netflix Dataset Analysis and Content Strategy Optimization
 
-# Project Type
+## Project Type
 Exploratory Data Analysis (EDA)
 
-# Contribution
-Individual
-
-**Team Member**
-Karan Patel
-
-**Project Summary**
+## Project Summary
 
 This project aims to analyze the Netflix dataset to uncover valuable insights that can help improve content strategy and user engagement. Using Exploratory Data Analysis (EDA) techniques, this project dives deep into the data to explore trends, content categories, popular genres, and more. With a strong focus on visualization, various types of charts (bar charts, pie charts, histograms, heatmaps, etc.) are used to communicate key findings.
 
@@ -19,13 +13,13 @@ The dataset used is preprocessed for missing values, data type corrections, and 
 
 This project delivers 20 meaningful and logical charts that align with the UBM approach (Univariate, Bivariate, Multivariate), each followed by insights and their potential business implications.
 
-**Problem Statement**
+## Problem Statement
 
 Netflix wants to better understand the type of content that is successful on its platform. This includes identifying trends in content release, geographic distribution, genre popularity, and contributor involvement (like actors and directors).
 
-**Define Your Business Objective**
+## Define Your Business Objective
 
-To extract meaningful insights from Netflix’s content dataset that can:
+### To extract meaningful insights from Netflix’s content dataset that can.
 Help in identifying popular genres and trends over time.
 Optimize content strategy for different regions.
 Improve recommendations based on user-viewing habits and available content.
