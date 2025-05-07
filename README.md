@@ -11,7 +11,7 @@ Netflix, being one of the leading OTT platforms, produces and hosts thousands of
 
 The dataset used is preprocessed for missing values, data type corrections, and feature extraction. Key columns like release year, cast, genre, duration, and country were cleaned and analyzed. Both univariate and bivariate analyses were performed, followed by multivariate visualizations.
 
-This project delivers 20 meaningful and logical charts that align with the UBM approach (Univariate, Bivariate, Multivariate), each followed by insights and their potential business implications.
+This project delivers 15 meaningful and logical charts that align with the UBM approach (Univariate, Bivariate, Multivariate), each followed by insights and their potential business implications.
 
 ## Problem Statement
 
