@@ -1,9 +1,9 @@
 ## Netflix Dataset Analysis and Content Strategy Optimization
 
-**Project Type**
+# Project Type
 Exploratory Data Analysis (EDA)
 
-**Contribution**
+# Contribution
 Individual
 
 **Team Member**
