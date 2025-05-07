@@ -51,10 +51,10 @@ type: Whether it's a Movie or TV Show
 
 **What All Manipulations Have Been Done?**
 
-Fill the  missing/null values in crucial columns like title, cast, director, country
-Converted release_year from float to integer
-Extracted year, month, and day from date_added
-Created visualizations using seaborn, matplotlib
+-Fill the  missing/null values in crucial columns like title, cast, director, country
+-Converted release_year from float to integer
+-Extracted year, month, and day from date_added
+-Created visualizations using seaborn, matplotlib
 
 **Insights Found**
 
